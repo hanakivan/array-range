@@ -7,7 +7,7 @@ A very lightweight library to create an array range.
 
 This library is a bit larger in file size because supports IE11. If you don't need to support this browser, check out the superlightweight **array-range-es6** for modern browsers only (e.g. Safari 13+, EDGE 13+). 
 
-You can find it here [here](https://www.npmjs.com/package/@ivanhanak_com/array-range). 
+You can find it here [here](https://www.npmjs.com/package/@ivanhanak_com/array-range-es6). 
 
 ## Changelog
 
